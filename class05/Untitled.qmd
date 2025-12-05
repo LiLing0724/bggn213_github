@@ -1,7 +1,7 @@
 ---
 title: "Class05: Data Viz with GGPLOT"
 author: "Li Ling (A15092789)"
-format: pdf
+format: gfm
 ---
 
 Today we are playing with plotting graphics in R.
